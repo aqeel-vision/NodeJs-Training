@@ -12,3 +12,5 @@ Delete a user: DELETE /api/users/:id
 
 Create a new user: POST /api/users
 Access a protected route (Profile): GET /api/profile
+
+Postman collection export is added, You can import and check all the apis.
